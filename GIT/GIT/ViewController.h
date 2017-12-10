@@ -12,10 +12,13 @@
 @property (nonatomic,strong)NSString *name;
 <<<<<<< HEAD
 @property (nonatomic,strong)NSString *sex;
+<<<<<<< HEAD
 @property (nonatomic,strong)NSString *sex1;
 =======
 
 >>>>>>> parent of c6a8bff... three
+=======
+>>>>>>> parent of 799fe81... ,,,lll
 
 @end
 
