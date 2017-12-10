@@ -10,8 +10,12 @@
 
 @interface ViewController : UIViewController
 @property (nonatomic,strong)NSString *name;
+<<<<<<< HEAD
 @property (nonatomic,strong)NSString *sex;
 @property (nonatomic,strong)NSString *sex1;
+=======
+
+>>>>>>> parent of c6a8bff... three
 
 @end
 
