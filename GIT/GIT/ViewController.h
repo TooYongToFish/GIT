@@ -12,5 +12,7 @@
 @property (nonatomic,strong)NSString *name;
 @property (nonatomic,strong)NSString *sex;
 @property (nonatomic,strong)NSString *sex1;
+@property (nonatomic,strong)NSString *sex2;
+
 @end
 
