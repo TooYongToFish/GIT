@@ -11,6 +11,7 @@
 @interface ViewController : UIViewController
 @property (nonatomic,strong)NSString *name;
 @property (nonatomic,strong)NSString *sex;
+@property (nonatomic,strong)NSString *sex1;
 
 @end
 
